@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "discovery-server"
+		},
+		{
+			"path": "gateway"
+		},
+		{
+			"path": "produtos"
+		},
+		{
+			"path": "vendas"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
